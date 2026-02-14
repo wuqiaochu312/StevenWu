@@ -30,7 +30,7 @@ readings = [15, 14, 17, 20, 23, 28, 20]
 
 #5.2
 def is_weekend(week_number):
-    if week_number == 6 or 7:
+    if week_number == 6 or week_number == 7:
         return True
     else:
         return False
