@@ -1,0 +1,34 @@
+Brainstorm for the Final Project
+
+1. Five topics that sound interesting to me:
+
+1. Exoplanets and how scientists detect planets outside our solar system
+2. Black holes and gravitational waves
+3. Particle physics and the Higgs boson
+4. Artificial intelligence in image or video generation
+5. Climate data and long-term temperature change
+
+2. Three topics with one related online source each:
+
+Topic 1: Exoplanets
+A useful source is the NASA Exoplanet Archive. This source relates to the topic because it gives real data about discovered exoplanets, such as their size, orbital period, and distance from their stars. I could use this data to compare different planets and look for patterns.
+
+Topic 2: Particle physics and the Higgs boson
+A useful source is the CERN website and its educational pages about the Higgs boson. This source relates to the topic because it explains what the Higgs boson is, why it matters, and how scientists found evidence for it. It can help me understand the science before trying to analyze any data.
+
+Topic 3: Climate data
+A useful source is NOAA climate data. This source relates to the topic because it contains real measurements of temperature and climate over time. I could use it to study trends, make graphs, and see how temperatures change across years.
+
+3. One topic and how I could use Python skills with it:
+
+I would choose exoplanets as my topic.
+
+I could use Python to explore and analyze exoplanet data. I could use lists and dictionaries to store information about different planets. I could use loops to go through the dataset and compare values like planet size or orbital period. I could use conditionals to sort planets into groups, such as small planets and large planets. I could write functions to calculate averages or find planets that match certain conditions. I could also use GitHub and version control to save different versions of my code and track my progress during the project.
+
+4. Two possible project ideas:
+
+Ambitious idea:
+Create an exoplanet explorer program that reads a dataset and lets the user search for planets by size, distance, or orbital period. The program could also make charts and compare groups of planets to show patterns in the data.
+
+Smaller realistic idea:
+Make a simple Python program that loads a small exoplanet dataset, calculates basic statistics like average planet size, and prints a list of planets that meet certain conditions. This version would be smaller and possible to finish in a few weeks.
